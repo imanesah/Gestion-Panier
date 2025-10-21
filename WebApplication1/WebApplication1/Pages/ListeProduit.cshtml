@@ -1,0 +1,35 @@
+﻿@page
+@model ListeProduitModel
+@{
+    ViewData["Title"] = "Liste des Produits";
+    Layout = "_Layout";
+}
+
+<h1>Produits disponibles</h1>
+
+@if (!Model.Produits.Any())
+{
+    <p>Aucun produit trouvé.</p>
+}
+else
+{
+    <div class="produits-container">
+        @foreach (var produit in Model.Produits)
+        {
+            <div class="produit-card">
+                <img src="/Images/Produit/@produit.ImagePath" alt="@produit.Nom" width="150" />
+                <h3>@produit.Nom</h3>
+                <p>@produit.Description</p>
+                <p><strong>Prix :</strong> @produit.Prix Dh</p>
+                <p><strong>Catégorie :</strong> @produit.Categorie.Nom</p>
+               
+                <form method="post" asp-page="Panier" asp-page-handler="Ajouter">
+                    <input type="hidden" name="id" value="@produit.Id" />
+                    <input type="hidden" name="nom" value="@produit.Nom" />
+                    <input type="hidden" name="prix" value="@produit.Prix" />
+                    <button type="submit" class="btn-ajouter">🛒 Ajouter au panier</button>
+                </form>
+            </div>
+        }
+    </div>
+}

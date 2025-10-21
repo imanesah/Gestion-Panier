@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\pages\\panier.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\panier.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\pages\\listeproduit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\listeproduit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\pages\\listeproduit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\listeproduit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\models\\produitcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\produitcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\pages\\panier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\panier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\pages\\categorie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\categorie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\pages\\categorie.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\categorie.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\ilisi3\\modulenet\\webapplication1\\webapplication1\\migrations\\20250923112629_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D5E3B2-9A69-4CFB-8E6F-FE7DD51EB576}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250923112629_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Panier.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Panier.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Panier.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Panier.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Panier.cshtml.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAADwv7AAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:10:13.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProduitCart.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Models\\ProduitCart.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProduitCart.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Models\\ProduitCart.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProduitCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:44:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Models\\Produit.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Produit.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:59:02.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T10:36:50.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:59:43.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListeProduit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\ListeProduit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ListeProduit.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\ListeProduit.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\ListeProduit.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:25:51.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListeProduit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\ListeProduit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ListeProduit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\ListeProduit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\ListeProduit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T08:25:12.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Panier.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Panier.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Panier.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Panier.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Panier.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T08:26:46.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Categorie.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Models\\Categorie.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Categorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:36:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T08:23:38.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categorie.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Categorie.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Categorie.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Categorie.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Categorie.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:49:21.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categorie.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Categorie.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Categorie.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Pages\\Categorie.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Categorie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T10:45:43.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:16:22.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T11:22:30.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T11:03:44.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:24:06.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250923112629_initMigration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Migrations\\20250923112629_initMigration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250923112629_initMigration.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\ilisi3\\ModuleNet\\WebApplication1\\WebApplication1\\Migrations\\20250923112629_initMigration.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250923112629_initMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:26:30.248Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 21,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

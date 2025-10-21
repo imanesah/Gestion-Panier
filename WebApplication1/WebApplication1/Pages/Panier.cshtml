@@ -1,0 +1,61 @@
+﻿@page
+@model PanierModel
+@{
+    ViewData["Title"] = "Votre Panier";
+}
+
+<h1>🛒 Votre Panier</h1>
+
+@if (!Model.Panier.Any())
+{
+    <p>Votre panier est vide.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Produit</th>
+                <th>Prix</th>
+                <th>Quantité</th>
+                <th>Sous-total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Panier)
+            {
+                <tr>
+                    <td>@item.Produit.Nom</td>
+                    <td>@item.Produit.Prix Dh</td>
+                    <td>
+                        <form method="post" asp-page-handler="ModifierQuantite" class="inline-form">
+                            <input type="hidden" name="id" value="@item.Produit.Id" />
+                            <input type="number" name="nouvelleQuantite" value="@item.Quantite" min="1" onchange="this.form.submit()" />
+                        </form>
+                    </td>
+                    <td>@(item.Produit.Prix* item.Quantite) Dh</td>
+                    <td>
+                        <form method="post" asp-page-handler="Supprimer" class="inline-form">
+                            <input type="hidden" name="id" value="@item.Produit.Id" />
+                            <button type="submit" class="btn-supprimer">❌</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>
+        Total :
+        <span style="color:red">
+            @Model.Panier.Sum(p => p.Produit.Prix * p.Quantite)
+        </span> Dh
+    </h3>
+
+    <p id="timer" style="font-weight:bold;"></p>
+}
+
+@section Scripts {
+    <!-- Scripts supplémentaires ici -->
+}

@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+
+        .sidebar {
+            position: fixed;
+            right: 0;
+            top: 0;
+            width: 220px;
+            height: 100%;
+            background-color: #f44336;
+            color: white;
+            padding-top: 20px;
+            overflow-y: auto;
+        }
+
+            .sidebar a {
+                display: block;
+                padding: 10px;
+                text-decoration: none;
+                color: white;
+            }
+
+                .sidebar a:hover {
+                    background-color: #d32f2f;
+                }
+
+        .content {
+            margin-right: 220px;
+            padding: 20px;
+        }
+
+        .categorie {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+
+            .categorie img {
+                width: 40px;
+                height: 40px;
+                object-fit: cover;
+                border-radius: 5px;
+            }
+
+        .produit-card {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            display: flex;
+            gap: 15px;
+        }
+
+            .produit-card img {
+                width: 100px;
+                height: 100px;
+                object-fit: cover;
+                border-radius: 5px;
+            }
+    </style>
+</head>
+<body>
+    <!-- Sidebar fixe à droite -->
+    <div class="sidebar">
+        <h3 style="padding-left:10px;">Menu</h3>
+        <!-- Lien vers la page ListeProduit pour afficher tous les produits -->
+        <a asp-page="/ListeProduit">Produits</a>
+
+        <!-- Lien vers la page Categorie pour afficher toutes les catégories -->
+        <a asp-page="/Categorie">Catégories</a>
+        <a asp-page="/Panier">Panier</a>
+    </div>
+
+    <!-- Contenu principal -->
+    <div class="content">
+        @RenderBody()
+    </div>
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>
